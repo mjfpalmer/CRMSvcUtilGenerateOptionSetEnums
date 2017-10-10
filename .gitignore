@@ -1,0 +1,4 @@
+bin
+obj
+*.suo
+/GenerateOptionSetEnums/GenerateOptionSetEnums.csproj.user
